@@ -1,4 +1,4 @@
-package Lesson1;
+package lesson1;
 
 public class HomeWorkApp {    // Task 1 create class HomeWorkApp and add method main //
     public static void main(String[] args) {
