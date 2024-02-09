@@ -1,7 +1,7 @@
 package lesson4;
 
 public class Animal {
-    private final String name;
+    private String name;
     private int maxRunDistance;
     private int maxSwimDistance;
 
